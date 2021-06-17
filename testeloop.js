@@ -1,0 +1,1 @@
+for (i=1000; i>=100; i-=100) { console.log(i);}
