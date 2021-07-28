@@ -11,4 +11,4 @@ function PodeSubir(alturaPessoa,acompanhante)
        }
 
    }
-PodeSubir(1.21,"sim")
+PodeSubir(1.19,"sim")

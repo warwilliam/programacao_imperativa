@@ -1,6 +1,6 @@
 let numero1="Olá"
 let numero2=23
-
+let nome='William'
 let resultado= numero1 +numero2;
 console.log(resultado)
 
@@ -13,3 +13,5 @@ console.log(media)
 let nota3=10
 let notaFinal=media+nota3
 console.log(notaFinal)
+
+console.log(numero1+' Sr '+nome)

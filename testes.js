@@ -34,7 +34,7 @@ console.log(segundaFunction ())
      switch(sexo){
         case `menino`: return `e um garoto`
         break;
-        case `menina`: return `e uma putinha`
+        case `menina`: return `e uma menina`
         break;
 
      }
